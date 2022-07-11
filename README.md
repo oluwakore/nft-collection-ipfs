@@ -1,3 +1,3 @@
 # nft-collection-ipfs
 access this nft collection via https://nft-collection-ipfs-ajt59h5ul-oluwakore.vercel.app/....
-- NB:you must have some rinkeby eth in your wallet(metamask is most preferred)
+- NB: You must have some rinkeby eth in your wallet(metamask is most preferred)
